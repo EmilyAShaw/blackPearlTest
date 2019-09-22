@@ -1,0 +1,176 @@
+@import url('<link href="https://fonts.googleapis.com/css?family=Roboto:300&display=swap" rel="stylesheet">');
+
+.App {
+  text-align: left;
+  color:#707070;
+  padding-left:40px;
+}
+.new {
+  text-align: left;
+}
+h1{
+  font-family: 'Roboto', light, sans-serif;
+  font-size: 20px;
+  padding-top:1%;
+  padding-left:2.5%;
+  padding-bottom: 2.5%;
+}
+button{
+  font-family: 'Roboto', sans-serif;
+ 
+  padding-left: 100px;
+  font-size: 0.5em;
+  /* background-color: blue; */
+  text-align: left;
+  /* padding: 25px; */
+}
+
+
+.clickedButton{
+
+  width:100%;
+  padding: 10px;
+  padding-left:60px;
+  font-size: 0.7em;
+  border-left: 1px solid rgb(255, 255, 255);
+  /* color:blue; */
+}
+
+
+.sidePannel {
+  float:right;
+  height: 73.5%;
+
+
+
+  position: absolute;
+  margin-left: 23%;
+  margin-top:-38.9%;
+  padding: 10px;
+  border: 1px solid #bbb;
+
+  background-color: rgb(241, 241, 241);
+  width:65%;
+}
+
+.sidebar{
+
+  font-family: 'Roboto', sans-serif;
+ 
+}
+.classSpan{
+  font-size: 10px;
+  margin-left:20px;
+  margin-bottom: -7px;
+}
+
+.classSpanBanner{
+  font-size: 10px;
+  margin-left:20px;
+  margin-bottom: -7px;
+}
+
+.headingForm{
+  margin-left:20px;
+
+
+  font-size: 20px;
+}
+.headingForminBanner{
+  margin-left:35px;
+
+
+  font-size: 20px;
+}
+
+.sigSect{
+  padding-top:8px;
+  padding-bottom:30px;
+  margin-left: 30px;
+  border-bottom-style: solid;
+  border-width: 1px;
+  border-color: #707070;
+  font-family: 'Roboto', sans-serif;
+  width:90%;
+
+}
+img{
+  width:80%;
+  padding-top:20px;
+  padding-left:45px;
+}
+
+
+.bannerbar{
+  /* background-color: white; */
+  height: 500px;
+  margin-left:430px;
+  margin-top:-370.5px;
+  border-left-style: solid;
+  border-width: 1px;
+  border-color: #707070;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+
+.form{
+  background-color: white;
+  width:350px;
+  padding:7px;
+  padding-left:20px;
+  margin-left:20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #707070;
+ 
+
+}
+
+.banner{
+  background-color: white;
+  width:152px;
+  padding:7px;
+  padding-left:20px;
+  margin-left:20px;
+  border-style: solid;
+  border-width: 1px;
+  height:18px;
+  border-color: #707070;
+}
+.bannerBlack{
+  background-color: #707070;
+  color:white;
+  width:170px;
+  padding:7px;
+  padding-left:20px;
+  margin-left:200px;
+  margin-top:-46px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #707070;
+  height:18px;
+ 
+}
+
+p{
+  width: 90%;
+  font-size: 12px;
+}
+
+
+
+.contact {
+  margin: 0px;
+  /* padding: 10px; */
+  border: 0px solid #bbb;
+  background-color: #eee;
+  width:25%;
+}
+
+.contact span {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: #333;
+}
+
